@@ -1,8 +1,8 @@
-name: CleanPlayers
+﻿name: CleanPlayers
 version: '${project.version}'
 main: dev.cleanplayers.CleanPlayersPlugin
 api-version: '1.21'
-authors: [chcucu]
+authors: [shadow-agent404]
 description: Automatically purge player data of players who have been offline for too long.
 folia-supported: false
 
