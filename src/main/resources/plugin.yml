@@ -1,4 +1,4 @@
-﻿name: CleanPlayers
+name: CleanPlayers
 version: '${project.version}'
 main: dev.cleanplayers.CleanPlayersPlugin
 api-version: '1.21'
